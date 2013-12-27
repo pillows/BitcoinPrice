@@ -21,3 +21,7 @@ And WALA! Just watch the magic happen. The delay has been set to 2 seconds to av
 
 Donations are appreciated :)
 BTC Address: 1KiU4NdF3P5Zv6zmqSkZHgVHDUrxpDvVHy
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pillows/bitcoinprice/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
